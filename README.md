@@ -47,8 +47,16 @@
 
 ## Output:
 
-### Name:
-### Register Number:
+![WhatsApp Image 2025-11-25 at 18 35 50_78a37bfc](https://github.com/user-attachments/assets/d829eae2-ba6f-4446-8ede-02cf85ce83e2)
+
+![WhatsApp Image 2025-11-25 at 18 36 39_f7be07fb](https://github.com/user-attachments/assets/97931a78-cbe6-422a-8328-403798ec7f90)
+
+![WhatsApp Image 2025-11-25 at 18 37 13_48c96972](https://github.com/user-attachments/assets/424f0fba-318a-4c05-955f-9577fccf7ab5)
+
+
+
+### Name: Rithika R
+### Register Number: 212224240136
 
 ## Result: 
 ### Thus the simulation on the Postprocessing in additive manufacturing is completed.
